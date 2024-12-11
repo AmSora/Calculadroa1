@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C8E266C-E8B1-4C00-9FFA-25E56270720C}|Calculadora1Tests\\Calculadora1Tests.csproj|c:\\users\\yeaht\\source\\repos\\calculadora1\\calculadora1tests\\calculadorafuncionestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C8E266C-E8B1-4C00-9FFA-25E56270720C}|Calculadora1Tests\\Calculadora1Tests.csproj|solutionrelative:calculadora1tests\\calculadorafuncionestests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A269DF3-705D-4885-8014-8BCE3E5879BE}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\calculadora1\\calculadorafunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A269DF3-705D-4885-8014-8BCE3E5879BE}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\calculadorafunciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A269DF3-705D-4885-8014-8BCE3E5879BE}|Calculadora1\\Calculadora1.csproj|C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\calculadora1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A269DF3-705D-4885-8014-8BCE3E5879BE}|Calculadora1\\Calculadora1.csproj|solutionrelative:calculadora1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculadoraFuncionesTests.cs",
+              "DocumentMoniker": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\Calculadora1Tests\\CalculadoraFuncionesTests.cs",
+              "RelativeDocumentMoniker": "Calculadora1Tests\\CalculadoraFuncionesTests.cs",
+              "ToolTip": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\Calculadora1Tests\\CalculadoraFuncionesTests.cs",
+              "RelativeToolTip": "Calculadora1Tests\\CalculadoraFuncionesTests.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:39:32.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraFunciones.cs",
+              "DocumentMoniker": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\Calculadora1\\CalculadoraFunciones.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\CalculadoraFunciones.cs",
+              "ToolTip": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\Calculadora1\\CalculadoraFunciones.cs",
+              "RelativeToolTip": "Calculadora1\\CalculadoraFunciones.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:34:46.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\Calculadora1\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora1\\Program.cs",
+              "ToolTip": "C:\\Users\\Yeaht\\source\\repos\\Calculadora1\\Calculadora1\\Program.cs",
+              "RelativeToolTip": "Calculadora1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T15:34:32.887Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
